@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: static-website
-        image: sidharth18/shapel-website:2
+        image: dockernavaneeth/shapel-website:2
         imagePullPolicy: Always
 
         ports:
